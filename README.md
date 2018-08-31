@@ -5,6 +5,8 @@ Os algoritmos foram feitos usando o software Octave, que possui o mesmo formato 
   - Algoritmos que implementam os Métodos de Zero de Funções
     - [Método da Bisseção](ZeroDeFuncoes/Bissecao.m)
     - [Método da Falsa Posição/das Cordas](ZeroDeFuncoes/Falsa_Posicao.m)
+    - [Método de Newton Modificado](ZeroDeFuncoes/Newton.m)
+    - [Método das Secantes](ZeroDeFuncoes/Secantes.m)
 
 
 
