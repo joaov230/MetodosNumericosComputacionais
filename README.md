@@ -7,7 +7,10 @@ Os algoritmos foram feitos usando o software Octave, que possui o mesmo formato 
     - [Método da Falsa Posição/das Cordas](ZeroDeFuncoes/Falsa_Posicao.m)
     - [Método de Newton Modificado](ZeroDeFuncoes/Newton.m)
     - [Método das Secantes](ZeroDeFuncoes/Secantes.m)
-
+    
+  - Algoritmos que implementam os Métodos de Resolução de Equações Lineares
+    -[Método de Eliminação de Gauss](Metodo_de_Eliminacao_de_Gauss.m)
+    
 
 
 ##### [Você pode fazer o download do Octave clicando aqui.](https://www.gnu.org/software/octave/#install)
