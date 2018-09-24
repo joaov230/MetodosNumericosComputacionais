@@ -9,8 +9,8 @@ Os algoritmos foram feitos usando o software Octave, que possui o mesmo formato 
     - [Método das Secantes](ZeroDeFuncoes/Secantes.m)
     
   - Algoritmos que implementam os Métodos de Resolução de Equações Lineares
-    - [Método de Eliminação de Gauss](Metodo_de_Eliminacao_de_Gauss.m)
-    
+    - [Método de Eliminação de Gauss](SolucaoDeEquacoesLineares/Metodo_de_Eliminacao_de_Gauss.m)
+    - [Método de Gauss-Jacobi](SolucaoDeEquacoesLineares/Metodo_de_Gauss_Jacobi.m)
 
 
 ##### [Você pode fazer o download do Octave clicando aqui.](https://www.gnu.org/software/octave/#install)
