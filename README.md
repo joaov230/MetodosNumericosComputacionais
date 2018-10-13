@@ -11,6 +11,7 @@ Os algoritmos foram feitos usando o software Octave, que possui o mesmo formato 
   - Algoritmos que implementam os Métodos de Resolução de Equações Lineares
     - [Método de Eliminação de Gauss](SolucaoDeEquacoesLineares/Metodo_de_Eliminacao_de_Gauss.m)
     - [Método de Gauss-Jacobi](SolucaoDeEquacoesLineares/Metodo_de_Gauss_Jacobi.m)
+    - [Método de Gauss-Seidel](SolucaoDeEquacoesLineares/Metodo_Gauss_Seidel.m)
 
 
 ##### [Você pode fazer o download do Octave clicando aqui.](https://www.gnu.org/software/octave/#install)
